@@ -8,6 +8,8 @@ This guide walks you through the process of launching a Windows-based EC2 instan
 
 ## Step 1: Sign in to AWS Console
 
+(Screenshot 1.png)
+
 - Go to the [AWS Management Console](https://aws.amazon.com/console/).
 - Click on the **Sign in** button at the top right corner.
 
