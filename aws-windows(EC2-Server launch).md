@@ -109,16 +109,18 @@ To get the password required for RDP login:
 
 ✅ You are now ready to securely log in and use your Windows EC2 server.
 
+---
 
-
- Step 8: Open Remote Desktop Connection (RDP)
+### Step 8: Open Remote Desktop Connection (RDP)
 On your local machine (Windows/Mac):
 
 Open the Remote Desktop Connection app (mstsc.exe on Windows).
 
 In the Computer field, enter the public IPv4 address or DNS name of your EC2 instance.
 
-✅ Step 9: Enter Login Credentials
+---
+
+### Step 9: Enter Login Credentials
 In the RDP login prompt:
 
 Username: Administrator
@@ -126,10 +128,11 @@ Username: Administrator
 Password: Paste the decrypted password obtained in Step 7.1
 
 Click OK to proceed.
-
-✅ Step 10: Accept Certificate Warning & Connect
+---
+### Step 10: Accept Certificate Warning & Connect
 You may see a certificate warning saying "The identity of the remote computer cannot be verified."
 
 Click Yes to continue connecting.
 
 You’ll now be logged into your Windows Server EC2 instance.
+---
